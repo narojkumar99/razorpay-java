@@ -1,6 +1,6 @@
 # Razorpay Java SDK
 
-Official java bindings for the [Razorpay API](https://docs.razorpay.com/docs/payments).
+Official java bindings for the [Razorpay API](https://docs.razorpay.com/docs/payment).
 
 
 ## Documentation
